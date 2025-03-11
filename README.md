@@ -4,7 +4,7 @@
 
 ### And just one (for now) adult-content kodi addon
 
-### Includes an early verions of the patcher that is just for SreamArmy's XXX-O-DUS plugin
+### Includes an early verions of the patcher that is just for StreamArmy's XXX-O-DUS plugin
 
 StreamFreedom Patcher can remove the pinsystem requirements and other malicious
 code from StreamArmy repo addons.
